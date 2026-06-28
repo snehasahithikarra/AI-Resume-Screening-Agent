@@ -1,1 +1,15 @@
+Software Engineer
 
+Required Skills:
+- Python
+- SQL
+- Machine Learning
+- Data Structures
+- Object-Oriented Programming
+- Problem Solving
+
+Qualification:
+- B.Tech in Computer Science or related field
+
+Experience:
+- Freshers or up to 2 years
